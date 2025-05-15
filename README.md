@@ -27,7 +27,7 @@
 
 ---
 
-### 2. `networking_num_NN+UEnode_ek.json`
+### 2. `networking_num_NN+UEnode_data_ek.json`
 
 - **Purpose**:
   - Records the resource changes of each node during every event for all samples.
